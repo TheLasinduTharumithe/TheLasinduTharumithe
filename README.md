@@ -172,7 +172,7 @@ Modern personal portfolio showcasing my projects, skills, and experience.
 
 ## 🤝 Connect With Me
 
-- 💼 **LinkedIn:** Add your LinkedIn URL
+- 💼 **LinkedIn:** www.linkedin.com/in/lasindu-tharumitha-a5850a434
 - 🌐 **Portfolio:** [my-modern-portfolio-seven.vercel.app](https://my-modern-portfolio-seven.vercel.app/)
 - 📧 **Email:** [Thelasindutharumitha@gmail.com)
 - 💻 **GitHub:** [github.com/TheLasinduTharumithe](https://github.com/TheLasinduTharumithe)
