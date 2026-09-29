@@ -1,94 +1,268 @@
-<h1 align="center">Hi 👋, I'm Lasindu Tharumitha</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer | Flutter Developer | Full-Stack Developer
-</h3>
+# Hi, I'm Lasindu Tharumitha 👋
 
-<p align="center">
-Building modern mobile apps, web applications and intelligent software solutions.
-</p>
+### Software Engineer · Flutter Developer · Full-Stack Developer
+
+I design and build modern **mobile applications, web platforms, backend systems,  
+and intelligent software solutions** focused on usability, performance, and scalability.
+
+<br/>
+
+<a href="https://my-modern-portfolio-seven.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Website-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://github.com/TheLasinduTharumithe">
+  <img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 BEng (Hons) Software Engineering — First Class
-- 📱 Currently working with Flutter & Dart
-- 🌐 Building Full-Stack Web Applications
-- 🤖 Exploring AI, Automation & n8n
-- 📚 Interested in Mobile Development, Backend Systems and Cloud Technologies
-- 🚀 Always learning and building new projects
+I'm a **Software Engineering graduate** with a **First Class BEng (Hons) in Software Engineering**.
+
+I enjoy transforming ideas into practical software products — from cross-platform mobile applications and full-stack web systems to backend services, automation workflows, and AI-powered solutions.
+
+- 🎓 **BEng (Hons) Software Engineering — First Class**
+- 📱 Building cross-platform applications with **Flutter & Dart**
+- 🌐 Developing modern applications with **React, TypeScript & Node.js**
+- ⚙️ Working with **REST APIs, authentication, databases and caching**
+- 🗄️ Experience with **MySQL, Firebase & Redis**
+- 🐳 Exploring scalable environments with **Docker & cloud deployment**
+- 🤖 Building automation and AI solutions using **n8n & OpenAI**
+- 🚀 Focused on writing maintainable software and solving real-world problems
+
+---
+
+## ⚡ What I Work With
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Mobile Development
+
+- Flutter
+- Dart
+- REST API Integration
+- Authentication
+- Local & Remote Data
+- Cross-platform UI
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Full-Stack Development
+
+- React
+- TypeScript
+- JavaScript
+- Node.js
+- REST APIs
+- Vite
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Data & Backend
+
+- MySQL
+- Firebase
+- Redis
+- API Architecture
+- Authentication
+- Caching
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Tools & Platforms
+
+- Git
+- GitHub
+- Docker
+- Vercel
+- VS Code
+- n8n
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Mobile & Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+</p>
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+</p>
+
+### Development & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+</p>
+
+### AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Selected Projects
 
-### 📚 Sarasavi eBook Platform
-A modern eBook ecosystem built for Sinhala and English digital publications.
+## 📚 Sarasavi eBook Platform
 
-**Technologies**
-`Flutter` `Node.js` `MySQL` `Redis`
+A modern digital reading ecosystem designed for **Sinhala and English eBooks**, with a strong focus on mobile reading experience and digital publishing.
+
+**Highlights**
+
+- Flutter-based cross-platform mobile application
+- EPUB reading functionality
+- Sinhala Unicode content support
+- User authentication
+- Backend API integration
+- MySQL database
+- Redis caching
+- Cloud-ready architecture
+
+**Stack**
+
+`Flutter` `Dart` `Node.js` `MySQL` `Redis` `REST API`
 
 ---
 
-### 🎮 Sarasavi Book Fair Game
+## 🛒 Sarasavi POS & Back Office System
 
-Interactive PWA game developed using Phaser for book fair visitors.
+A modern retail management solution designed around bookstore operations, combining cashier workflows, administrative tools, reporting, and back-office functionality.
 
-**Technologies**
+**Highlights**
+
+- Point-of-sale workflows
+- Product & inventory management
+- Sales management
+- Administrative dashboard
+- Reporting
+- User roles & permissions
+- Accounting-related workflows
+- Backend database integration
+
+**Stack**
+
+`TypeScript` `Node.js` `MySQL` `Redis`
+
+---
+
+## 🎮 Sarasavi Book Fair Game
+
+An interactive browser-based game designed for visitors at the Sarasavi Book Fair.
+
+**Highlights**
+
+- Interactive Phaser gameplay
+- Mobile-friendly controls
+- Progressive Web App support
+- Firebase integration
+- Score-based gameplay
+- Responsive browser experience
+
+**Stack**
+
 `TypeScript` `Phaser` `Firebase` `PWA`
 
 ---
 
-### 💼 Developer Portfolio
+## 🤖 WhatsApp AI Agent
 
-Modern personal portfolio showcasing my projects, skills and experience.
+An AI-powered automation system designed to connect WhatsApp conversations with intelligent workflows and backend business data.
 
-**Technologies**
-`React` `TypeScript` `Vite`
+**Highlights**
+
+- AI-assisted conversations
+- Workflow automation
+- OpenAI integration
+- Webhook-based communication
+- MySQL data integration
+- n8n workflow orchestration
+
+**Stack**
+
+`n8n` `OpenAI API` `MySQL` `Webhooks`
 
 ---
 
-## 📊 GitHub Activity
+## 💼 Developer Portfolio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheLasinduTharumithe&show_icons=true)
+My personal developer portfolio showcasing my software engineering experience, projects, skills, and technical interests.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheLasinduTharumithe&layout=compact)
+**Stack**
+
+`React` `TypeScript` `Vite` `Vercel`
+
+🌐 **Live Portfolio:**  
+[my-modern-portfolio-seven.vercel.app](https://my-modern-portfolio-seven.vercel.app/)
 
 ---
 
-## 🤝 Connect With Me
+## 📊 GitHub Overview
 
-- 💼 LinkedIn: Add your LinkedIn URL
-- 🌐 Portfolio: Add your portfolio URL
-- 📧 Email: Add your professional email
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=TheLasinduTharumithe&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLasinduTharumithe&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently Exploring
+
+```text
+Flutter Architecture        ███████████████████░
+Full-Stack Development      ██████████████████░░
+Backend Systems             █████████████████░░░
+Cloud & DevOps              ████████████░░░░░░░░
+AI & Automation             █████████████░░░░░░░
