@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://play-lh.googleusercontent.com/23lesxZuIg7Z-bPQXtEVMlGcYlHBOpRTquTDhwnDRDRN1bEEWzCBAMZXugJV2rVESfBrpztQXJNudL_e6E82CPQ" alt="Sarasavi Logo" height="80" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkZX2IsAY2MHGlDDVSSOs00_TgmWEnAW1_rJ3lp0Qs0NDT9gojsmCtWNY&s=10" alt="Sarasavi Logo" height="80" />
 
 # Hi 👋, I'm Lasindu Tharumitha
 
@@ -102,7 +102,7 @@ Building modern mobile applications, full-stack web platforms, backend systems, 
 
 <div align="center">
 
-<img src="YOUR_SARASAVI_LOGO_URL" alt="Sarasavi Logo" height="65" />
+<img src="https://play-lh.googleusercontent.com/23lesxZuIg7Z-bPQXtEVMlGcYlHBOpRTquTDhwnDRDRN1bEEWzCBAMZXugJV2rVESfBrpztQXJNudL_e6E82CPQ" alt="Sarasavi Logo" height="65" />
 
 ### **Intern at Sarasavi**
 
